@@ -1,0 +1,14 @@
+
+
+Name   ID  Score
+     
+David   125 78
+Peter   234 91
+Fatima  124 85
+Zhang   985 67
+Omar    256 92
+Priya   478 73
+Daniel  562 74
+Sophia  444 95
+Leo     741 80
+Hina    541 89
